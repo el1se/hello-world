@@ -5,4 +5,4 @@ Hi there!
 This is a README, which includes information about this project, which is nothing.
 Bye.
 
-Version 2.0
+Version 3.0
